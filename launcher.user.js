@@ -16,10 +16,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 // ==UserScript==
-// @name        AposLauncher
-// @namespace   AposLauncher
+// @name        orirori8
+// @namespace   AposLaunche
 // @include     http://agar.io/*
-// @version     5.041
+// @version     5.942
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
 // ==/UserScript==
